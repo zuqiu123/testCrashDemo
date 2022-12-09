@@ -1,0 +1,23 @@
+{
+  "name": "testCrashDemo",
+  "version": "0.1.0",
+  "summary": "A short description of testCrashDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zuqiu123/testCrashDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zuqiu123": "973489283@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zuqiu123/testCrashDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "testCrashDemo/Classes/**/*",
+  "resources": "testCrashDemo/{Assets,Classes}/**/*.{xcassets,png,storyboard}"
+}
